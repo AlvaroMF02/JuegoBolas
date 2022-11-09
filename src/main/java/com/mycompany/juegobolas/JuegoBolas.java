@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
 package com.mycompany.juegobolas;
 
 import java.util.Random;
@@ -11,10 +7,7 @@ import java.util.Scanner;
  *
  * @author alvaro
  */
-/*
-El programa, una vez finaliza un cliente, pregunta si hay otro en la cola para 
-operar de la misma forma. Si no hay clientes, el programa termina.
- */
+
 public class JuegoBolas {
 
     public static Scanner teclado = new Scanner(System.in);
